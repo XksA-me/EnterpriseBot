@@ -1,0 +1,7 @@
+flask
+requests
+apscheduler
+akshare
+dataframe_image
+pandas
+matplotlib
